@@ -1,5 +1,5 @@
 - #A physics student, and also a digital artist
-- 👋 Hi, I’m @geaxda94 , also people call me Elif
+- 👋 Hi, I’m @geaxda94 , people also call me Elif
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning matlab simulink, python, 
 - 💞️ 2022 Goals: Graduating physics, Being able to make plasma&laser simulations, developing in data science
