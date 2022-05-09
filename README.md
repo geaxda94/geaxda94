@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in data science
 
-- 🌱 I’m currently learning matlab simulink, python, 
+- 🌱 I’m currently learning matlab simulink, python, SQL
 
 - 📫 How to reach me: 
                      from [linkedin](https://www.linkedin.com/in/elif-bakkaloglu-607761157/)
